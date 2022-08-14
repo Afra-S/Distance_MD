@@ -1,3 +1,3 @@
 # Distance_MD
 
-### calculate distances between atoms
+calculate distances between atoms
